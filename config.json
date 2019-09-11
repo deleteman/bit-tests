@@ -1,0 +1,7 @@
+{
+    "logging": {
+        "output_files": {
+            "error": "errors.log"
+        }
+    }
+}
